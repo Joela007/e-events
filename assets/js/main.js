@@ -53,7 +53,7 @@
         if ($('.test-slider').length) {
             var swiper = new Swiper('.test-slider', {
                 autoplay: {
-                    delay: 2500,
+                    delay: 5000,
                     disableOnInteraction: true,
                 },
                 speed: 1200,
